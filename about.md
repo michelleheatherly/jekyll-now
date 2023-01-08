@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi there! I am Michelle Heatherly. 
+I am a Full-Stack Software Engineer with 5+ years of professional experience developing software applications, scripting, maintaining, integrating new features into both modern and legacy systems.
 
 ### Contact me
+If you are interested in working with me, you can contact me via email or LinkedIn.
 
-[email@domain.com](mailto:email@domain.com)
+[michelleheatherly218@outlook.com](mailto:michelleheatherly218@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/michelle-heatherly-04b7221b0/)
