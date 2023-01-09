@@ -3,8 +3,6 @@ layout: post
 title: Happy New Year!
 ---
 
-### Happy New Year, everyone!
-
 My hope for anyone whom may be reading this, that 2023 treats you kindly and your code runs smoothly.
 
 Like many others with new years resolutions, one of my goals for this year is to work on my own personal technical development by programming each day.
